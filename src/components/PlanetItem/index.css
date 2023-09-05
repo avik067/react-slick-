@@ -1,0 +1,26 @@
+.image-carousel {
+  padding-left: 100px;
+  height: 200px;
+  width: 300px;
+}
+
+.planet-name {
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+}
+
+.row {
+  display: flex;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
+.center {
+  justify-content: center;
+}
+.align-item {
+  align-items: center;
+}
